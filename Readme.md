@@ -2,6 +2,13 @@
 
 This Python script utilizes Selenium to automate clicking the cookie and purchasing upgrades in the "Cookie Clicker" web game.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Cookie-Clicker/assets/113255836/d0839b30-963f-4159-aff3-f5fa1e2067b7
+
+
+
 ## Overview
 
 The Cookie Clicker Bot interacts with the Cookie Clicker web game hosted on [Orteil's website](https://orteil.dashnet.org/experiments/cookie/). It continuously clicks the cookie and purchases upgrades to maximize cookie production.
